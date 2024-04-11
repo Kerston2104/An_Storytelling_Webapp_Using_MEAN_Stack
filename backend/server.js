@@ -22,6 +22,6 @@ app.use('/author',authorApi);
 
 app.use('/getimage',express.static('./uploads'));
 
-app.listen(10000,() => {
+app.listen(3000,() => {
     console.log('listening on server 3k');
 })
