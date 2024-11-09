@@ -84,6 +84,13 @@ Contributions are welcome! Please follow the standard process of forking the rep
 ## License
 
 This project is licensed under the MIT License.
+![Static Badge](https://img.shields.io/badge/Licensed-MIT-blue)
+![GitHub License](https://img.shields.io/github/license/Kerston2104/An_Storytelling_Webapp_Using_MEAN_Stack)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Kerston2104/An_Storytelling_Webapp_Using_MEAN_Stack)
+![GitHub Created At](https://img.shields.io/github/created-at/Kerston2104/An_Storytelling_Webapp_Using_MEAN_Stack)
+![GitHub last commit](https://img.shields.io/github/last-commit/Kerston2104/An_Storytelling_Webapp_Using_MEAN_Stack)
+
+
 
 ## Acknowledgments
 
